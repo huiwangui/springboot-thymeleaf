@@ -42,6 +42,7 @@
 			<scope>test</scope>
 		</dependency>
 
+		<!-- 对标签不进行严格的验证，则需要引入如下的依赖-->
 		<dependency>
 			<groupId>net.sourceforge.nekohtml</groupId>
 			<artifactId>nekohtml</artifactId>
